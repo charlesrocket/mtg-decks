@@ -1,0 +1,56 @@
+1 Hive of the Eye Tyrant (AFR) 258
+4 Compound Fracture (ANB) 46
+1 Mountain (VOW) 401
+1 Vorpal Sword (AFR) 124
+1 Warlock Class (AFR) 125
+1 Zariel, Archduke of Avernus (AFR) 172
+1 Snow-Covered Swamp (KHM) 281
+1 Immersturm Skullcairn (KHM) 263
+1 Sulfurous Mire (KHM) 270
+1 Kardur, Doomscourge (KHM) 216
+1 The Bloodsky Massacre (KHM) 207
+1 Kalain, Reclusive Painter (AFR) 225
+1 Wake to Slaughter (MID) 250
+1 Evolving Wilds (M20) 246
+1 Tyrite Sanctum (KHM) 272
+1 Cosmos Elixir (KHM) 237
+1 Vampire Socialite (MID) 249
+1 Siege Dragon (ANB) 85
+1 Immortal Phoenix (ANB) 75
+1 Purifying Dragon (MID) 155
+1 Sunstreak Phoenix (MID) 162
+1 Smashing Success (KHM) 151
+1 Reaper's Talisman (AFR) 117
+1 Valki, God of Lies (KHM) 114
+1 Poison the Cup (KHM) 103
+1 Baneblade Scoundrel (MID) 85
+1 Gisa, Glorious Resurrector (MID) 103
+1 Death-Priest of Myrkul (AFR) 95
+2 Eradicator Valkyrie (KHM) 94
+1 Bad Deal (ANB) 45
+1 Burning-Rune Demon (KHM) 81
+1 Cemetery Desecrator (VOW) 100
+1 Demon of Loathing (ANB) 48
+1 Efreet Flamepainter (STX) 98
+1 Calamity Bearer (KHM) 125
+1 Soulhunter Rakshasa (ANB) 62
+1 Reckless Stormseeker (MID) 157
+1 Xorn (AFR) 167
+1 Ogre Battledriver (ANB) 80
+1 Swamp (IKO) 266
+1 Swamp (IKO) 268
+1 Snow-Covered Swamp (KHM) 280
+1 Swamp (AFR) 270
+1 Swamp (AFR) 273
+1 Swamp (IKO) 267
+1 Swamp (ELD) 260
+1 Swamp (THB) 283
+1 Mountain (M21) 271
+1 Mountain (IKO) 269
+1 Mountain (THB) 284
+1 Mountain (ELD) 264
+1 Mountain (ELD) 262
+1 Mountain (ELD) 263
+1 Mountain (KHM) 397
+1 Mountain (STX) 373
+1 Snow-Covered Mountain (KHM) 283
