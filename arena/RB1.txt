@@ -1,11 +1,9 @@
 1 Hive of the Eye Tyrant (AFR) 258
-4 Compound Fracture (ANB) 46
 1 Mountain (VOW) 401
 1 Vorpal Sword (AFR) 124
-1 Warlock Class (AFR) 125
 1 Zariel, Archduke of Avernus (AFR) 172
 1 Snow-Covered Swamp (KHM) 281
-1 Immersturm Skullcairn (KHM) 263
+1 Bloodfell Caves (NEO) 264
 1 Sulfurous Mire (KHM) 270
 1 Kardur, Doomscourge (KHM) 216
 1 The Bloodsky Massacre (KHM) 207
@@ -15,8 +13,8 @@
 1 Tyrite Sanctum (KHM) 272
 1 Cosmos Elixir (KHM) 237
 1 Vampire Socialite (MID) 249
-1 Siege Dragon (ANB) 85
-1 Immortal Phoenix (ANB) 75
+1 Varragoth, Bloodsky Sire (KHM) 115
+1 Lord of the Forsaken (MID) 110
 1 Purifying Dragon (MID) 155
 1 Sunstreak Phoenix (MID) 162
 1 Smashing Success (KHM) 151
@@ -27,16 +25,15 @@
 1 Gisa, Glorious Resurrector (MID) 103
 1 Death-Priest of Myrkul (AFR) 95
 2 Eradicator Valkyrie (KHM) 94
-1 Bad Deal (ANB) 45
+1 Ogre-Head Helm (NEO) 155
 1 Burning-Rune Demon (KHM) 81
-1 Cemetery Desecrator (VOW) 100
-1 Demon of Loathing (ANB) 48
+2 Cemetery Desecrator (VOW) 100
+1 Blood on the Snow (KHM) 79
 1 Efreet Flamepainter (STX) 98
 1 Calamity Bearer (KHM) 125
-1 Soulhunter Rakshasa (ANB) 62
+1 Plargg, Dean of Chaos (STX) 155
 1 Reckless Stormseeker (MID) 157
 1 Xorn (AFR) 167
-1 Ogre Battledriver (ANB) 80
 1 Swamp (IKO) 266
 1 Swamp (IKO) 268
 1 Snow-Covered Swamp (KHM) 280
@@ -54,3 +51,8 @@
 1 Mountain (KHM) 397
 1 Mountain (STX) 373
 1 Snow-Covered Mountain (KHM) 283
+1 Skemfar Avenger (KHM) 109
+1 Dying to Serve (VOW) 109
+1 Headless Rider (VOW) 118
+1 Mask of Griselbrand (MID) 111
+1 Atsushi, the Blazing Sky (NEO) 134
