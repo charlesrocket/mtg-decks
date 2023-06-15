@@ -1,50 +1,54 @@
-2 Snow-Covered Swamp (KHM) 281
-2 Snow-Covered Swamp (KHM) 280
-1 Shimmerdrift Vale (KHM) 267
-1 Swamp (ZNR) 382
-1 Swamp (IKO) 268
-1 Swamp (IKO) 266
-1 Evolving Wilds (M20) 246
-1 Swamp (M21) 267
-1 Immersturm Skullcairn (KHM) 263
-1 Swamp (ELD) 260
-1 Swamp (ELD) 259
-1 Swamp (ELD) 261
-1 Swamp (THB) 282
-1 Swamp (THB) 283
-1 Demon of Loathing (ANB) 48
-1 Sengir Vampire (ANB) 60
-1 Murder (ANB) 53
-1 Bad Deal (ANB) 45
-1 Soulhunter Rakshasa (ANB) 62
-1 Jerren, Corrupted Bishop (MID) 109
-1 Sanitarium Skeleton (ANB) 57
-1 Vorpal Sword (AFR) 124
-4 Compound Fracture (ANB) 46
-3 Savage Gorger (ANB) 58
+1 Swamp (MOM) 279
+1 Swamp (HBG) 297
+1 Swamp (ONE) 274
+1 Kinzu of the Bleak Coven (ONE) 406
+1 Necrogen Communion (ONE) 99
+1 Swamp (HBG) 298
+2 Jadar, Ghoulcaller of Nephalia (MID) 108
+2 Vraan, Executioner Thane (ONE) 114
+1 Archpriest of Shadows (MOM) 89
+1 Sheoldred (MOM) 125
 1 Gisa, Glorious Resurrector (MID) 103
-2 Skeleton Archer (ANB) 61
-2 Unlikely Aid (ANB) 64
-1 Dread Rider (KHM) 89
-1 Tyrite Sanctum (KHM) 272
+1 Cemetery Desecrator (VOW) 100
+1 Mukotai Soulripper (NEO) 113
+1 Curse of Leeches (MID) 94
+1 Concealing Curtains (VOW) 101
+1 Painful Quandary (BRO) 111
+1 Swamp (ONE) 269
+1 Swamp (IKO) 268
 1 Swamp (AFR) 270
-1 Mage Hunter (STX) 76
-1 Nightmare (ANB) 54
-1 Hive of the Eye Tyrant (AFR) 258
-1 Valki, God of Lies (KHM) 114
-1 Lord of the Forsaken (MID) 110
-1 Drider (AFR) 98
-1 Burning-Rune Demon (KHM) 81
-1 Cosmos Elixir (KHM) 237
-1 Iron Golem (AFR) 247
-1 Reaper's Talisman (AFR) 117
-2 Eradicator Valkyrie (KHM) 94
-1 Poison the Cup (KHM) 103
-1 Hailstorm Valkyrie (KHM) 97
-1 Death-Priest of Myrkul (AFR) 95
-1 Swamp (AFR) 272
-1 Swamp (MID) 382
-1 Swamp (ANB) 116
+1 Swamp (MID) 272
+1 Takenuma, Abandoned Mire (NEO) 278
+1 Swamp (THB) 283
+1 Swamp (BRO) 272
+1 Swamp (HBG) 299
+1 Swamp (DMU) 268
+1 Obscura Storefront (SNC) 252
+1 Swamp (HBG) 300
+1 Swamp (AFR) 273
+1 The Dross Pits (ONE) 251
+2 Nashi, Moon Sage's Scion (NEO) 114
+2 Misery's Shadow (BRO) 107
+1 Mask of Griselbrand (MID) 111
+1 Black Sun's Twilight (ONE) 84
+1 Knight of Dusk's Shadow (DMU) 96
+1 March of Wretched Sorrow (NEO) 111
+1 Phyrexian Obliterator (ONE) 105
+1 Terror of Towashi (MOM) 331
+1 Realmbreaker, the Invasion Tree (MOM) 263
+1 Shadow of Mortality (SNC) 94
+1 Drag to the Bottom (DMU) 91
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Soul Transfer (NEO) 122
+2 Ayara's Oathsworn (MAT) 11
+1 Vraska, Betrayal's Sting (ONE) 115
+1 Blade of the Oni (NEO) 89
+1 Bloodline Culling (MID) 89
+1 Duress (STA) 29
+2 Evolved Sleeper (DMU) 93
+1 Gix's Command (BRO) 97
+1 Drivnod, Carnage Dominus (ONE) 90
+1 Swamp (NEO) 287
+1 Cut Down (DMU) 89
+1 Junji, the Midnight Sky (NEO) 102
 1 Swamp (M21) 268
-1 Swamp (ELD) 258
-1 Swamp (M21) 266
